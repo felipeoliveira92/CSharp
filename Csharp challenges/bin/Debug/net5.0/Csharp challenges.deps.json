@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Csharp challenges/1.0.0": {
+        "runtime": {
+          "Csharp challenges.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Csharp challenges/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

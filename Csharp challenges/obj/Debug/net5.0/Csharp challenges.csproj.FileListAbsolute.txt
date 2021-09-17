@@ -1,0 +1,16 @@
+C:\Users\Felipe\Documents\Projetos\CSharp\Csharp challenges\bin\Debug\net5.0\Csharp challenges.exe
+C:\Users\Felipe\Documents\Projetos\CSharp\Csharp challenges\bin\Debug\net5.0\Csharp challenges.deps.json
+C:\Users\Felipe\Documents\Projetos\CSharp\Csharp challenges\bin\Debug\net5.0\Csharp challenges.runtimeconfig.json
+C:\Users\Felipe\Documents\Projetos\CSharp\Csharp challenges\bin\Debug\net5.0\Csharp challenges.runtimeconfig.dev.json
+C:\Users\Felipe\Documents\Projetos\CSharp\Csharp challenges\bin\Debug\net5.0\Csharp challenges.dll
+C:\Users\Felipe\Documents\Projetos\CSharp\Csharp challenges\bin\Debug\net5.0\ref\Csharp challenges.dll
+C:\Users\Felipe\Documents\Projetos\CSharp\Csharp challenges\bin\Debug\net5.0\Csharp challenges.pdb
+C:\Users\Felipe\Documents\Projetos\CSharp\Csharp challenges\obj\Debug\net5.0\Csharp challenges.csproj.AssemblyReference.cache
+C:\Users\Felipe\Documents\Projetos\CSharp\Csharp challenges\obj\Debug\net5.0\Csharp challenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Documents\Projetos\CSharp\Csharp challenges\obj\Debug\net5.0\Csharp challenges.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\Projetos\CSharp\Csharp challenges\obj\Debug\net5.0\Csharp challenges.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Projetos\CSharp\Csharp challenges\obj\Debug\net5.0\Csharp challenges.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Projetos\CSharp\Csharp challenges\obj\Debug\net5.0\Csharp challenges.dll
+C:\Users\Felipe\Documents\Projetos\CSharp\Csharp challenges\obj\Debug\net5.0\ref\Csharp challenges.dll
+C:\Users\Felipe\Documents\Projetos\CSharp\Csharp challenges\obj\Debug\net5.0\Csharp challenges.pdb
+C:\Users\Felipe\Documents\Projetos\CSharp\Csharp challenges\obj\Debug\net5.0\Csharp challenges.genruntimeconfig.cache
